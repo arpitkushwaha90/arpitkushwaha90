@@ -2,6 +2,8 @@
 - 👀 I’m interested in front end
 - 🌱 I’m currently learning CSS and Javascript
 - 📫 How to reach me arpitkhushwaha998@gmail.com
+     www.linkedin.com/in/thearpitkushwaha
+
                      
 
 <!---
