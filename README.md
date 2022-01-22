@@ -1,4 +1,4 @@
-- Hi👋,I’m arpit Kushwaha
+- Hi👋,I’m Arpit Kushwaha
 - 👀 I’m interested in front end
 - 🌱 I’m currently learning CSS and Javascript
 - 📫 How to reach me arpitkhushwaha998@gmail.com
